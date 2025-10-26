@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "agentic-6bcd78da",
+  "framework": "nextjs",
+  "buildCommand": "npm run build"
+}
